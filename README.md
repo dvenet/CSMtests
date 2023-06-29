@@ -5,4 +5,4 @@ Suite of tests for central statistical monitoring. CSMtests is an R package that
 The idea is to compare centers in a multicentric clinical trial to identify centers with outlying distributions,
 across many different data types.
 
-At the moment only contains tests on bivariate correlations, as in Desmedt et al, submitted.
+At the moment only contains tests on bivariate correlations, as in Desmet et al, submitted.
