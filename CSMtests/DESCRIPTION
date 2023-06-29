@@ -1,6 +1,6 @@
 Package: CSMtests
 Version: 0.99.0
-Date: 2023-01-16
+Date: 2023-06-30
 Title: Tests for CSM, in particular correlation based
 Author: David Venet <davenet@ulb.ac.be>
 Maintainer: David Venet <davenet@ulb.ac.be>
@@ -9,7 +9,7 @@ Suggests:
 Enhances: 
 Description: ...
 License: Artistic-2.0
-Packaged: 2012-01-30 17:07:36 UTC; davidvenet
+Packaged: 2023-06-30 17:07:36 UTC; davidvenet
 Encoding: UTF-8
 LazyData: true
 RoxygenNote: 7.2.1
