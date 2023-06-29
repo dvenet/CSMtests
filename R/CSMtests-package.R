@@ -21,3 +21,13 @@ NULL
 
 #' @import MASS
 NULL
+
+#' Distribution of center sizes in real studies.
+#'
+#' Distribution of center sizes (N patients) for 3 real studies of different sizes.
+#' 
+#'
+#' @format ## `centerSizes`
+#' A list of length 3 (small, medium, large). 
+#' Each item of the list is the N patients of a center from that study
+"centerSizes"
